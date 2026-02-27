@@ -1,4 +1,4 @@
-from Enemigo import *
+from enemigo import *
 from zombie import *
 from ogro import *
 
